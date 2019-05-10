@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "http": "^0.0.0",
+    "https": "^1.0.0"
+  },
+  "name": "heroku-buildpack-minecraft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KROHNICK/heroku-buildpack-minecraft.git",
+  "author": "KROHNICK <business.kanekperez@gmail.com>",
+  "license": "MIT"
+}
